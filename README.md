@@ -2,4 +2,13 @@
 This repo is used to store build targets for automated builds
 
 ### Usage
-Simply add device codename followed by build type to repo/build_targets file
+Add to build_targets based on below info
+```
+<device> <build_type> <auto-upload>
+```
+Description:
+```
+<device> - device codename  
+<build_type> - user/userdebug/eng  
+<auto-upload> - yes/no (this autouploads complete build and recovery to SF)  
+```

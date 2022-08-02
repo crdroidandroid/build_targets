@@ -1,5 +1,5 @@
 # crDroid build target list
-# <device> <build_type>
-guacamole userdebug
-lemonadep userdebug
-beryllium userdebug
+# <device> <build_type> <auto-upload>
+guacamole userdebug yes
+lemonadep userdebug yes
+beryllium userdebug yes
