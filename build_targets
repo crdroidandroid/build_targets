@@ -1,3 +1,5 @@
 # crDroid build target list
 # <device> <build_type>
 guacamole userdebug
+lemonadep userdebug
+beryllium userdebug
