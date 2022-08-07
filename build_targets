@@ -2,5 +2,6 @@
 # <device> <build_type> <auto-upload>
 beryllium userdebug yes
 guacamole userdebug yes
+kane userdebug yes
 lemonade userdebug yes
 lemonadep userdebug yes
