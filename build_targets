@@ -1,16 +1,16 @@
 # crDroid build target list
 # <device> <build_type> <auto-upload>
-beryllium userdebug yes
-cheeseburger user yes
-chef userdebug yes
-courbet user no
-dumpling user yes
-gts4lv user no
-gts4lvwifi user no
-guacamole userdebug yes
-kane userdebug yes
-lavender userdebug yes
-lemonade user yes
-lemonadep user yes
-sweet user no
-vayu user no
+beryllium userdebug yes yes
+cheeseburger user yes yes
+chef userdebug yes yes
+courbet user no yes
+dumpling user yes yes
+gts4lv user no yes
+gts4lvwifi user no yes
+guacamole userdebug yes yes
+kane userdebug yes yes
+lavender userdebug yes yes
+lemonade user yes yes
+lemonadep user yes yes
+sweet user no yes
+vayu user no yes
