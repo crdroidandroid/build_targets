@@ -1,7 +1,7 @@
 # crDroid build target list
 # <device> <build_type> <auto-upload> <upload-recovery>
-beryllium userdebug no yes
+beryllium userdebug yes yes
 ginkgo userdebug yes no
-guacamole userdebug no yes
-lemonade user no yes
-lemonadep user no yes
+guacamole userdebug yes yes
+lemonade user yes yes
+lemonadep user yes yes
