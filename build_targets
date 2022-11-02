@@ -2,7 +2,7 @@
 # <device> <build_type> <auto-upload> <upload-recovery>
 begonia userdebug yes no
 beryllium userdebug yes yes
-ginkgo userdebug yes no
+ginkgo userdebug yes yes
 guacamole userdebug yes yes
 hotdogg userdebug yes yes
 lemonade user yes yes
