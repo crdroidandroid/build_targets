@@ -2,6 +2,8 @@
 # <device> <build_type> <auto-upload> <upload-recovery>
 beryllium userdebug yes yes
 ginkgo userdebug yes yes
+gta4xl userdebug yes yes
+gta4xlwifi userdebug yes yes
 guacamole userdebug yes yes
 hotdogg userdebug yes yes
 lemonade user yes yes
