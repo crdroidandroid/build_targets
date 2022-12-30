@@ -5,6 +5,8 @@ chef userdebug yes yes
 ginkgo userdebug yes yes
 gta4xl userdebug yes yes
 gta4xlwifi userdebug yes yes
+gts4lv user no no
+gts4lvwifi user no no
 guacamole userdebug yes yes
 hotdogg userdebug yes yes
 lavender userdebug yes yes
