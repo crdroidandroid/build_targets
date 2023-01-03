@@ -30,3 +30,10 @@ Format:
   }
 ]
 ```
+
+*repository* - Mandatory needed to be tracked from crDroid repo for dt (common) and kernel  
+*target_path* - Path where to clone repo  
+*branch* - Defaults to branch of **crdroid** remote from [default.xml](https://github.com/crdroidandroid/android) manifest, however can use different one from tracked repo  
+*remote* - Defaults to **github** remote from [default.xml](https://github.com/crdroidandroid/android) manifest, however can use different one from remote list  
+  
+***Note***: *Branch* and *remote* should not be set if using default defined values (ex: with *crDroid 9*, branch is default to *13.0* while remote is *github*)
