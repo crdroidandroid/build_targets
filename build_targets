@@ -2,6 +2,7 @@
 # <device> <build_type> <auto-upload> <upload-recovery>
 beryllium userdebug yes yes
 chef userdebug yes yes
+courbet user no no
 ginkgo userdebug yes yes
 gta4xl userdebug yes yes
 gta4xlwifi userdebug yes yes
