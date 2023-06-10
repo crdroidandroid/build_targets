@@ -12,8 +12,6 @@ d2s userdebug yes yes
 d2x userdebug yes yes
 gemini userdebug yes yes
 ginkgo userdebug yes yes
-gta4xl userdebug yes yes
-gta4xlwifi userdebug yes yes
 gts4lv user no no
 gts4lvwifi user no no
 guacamole userdebug yes yes
@@ -23,7 +21,6 @@ lemonade user yes yes
 lemonadep user yes yes
 mars userdebug yes yes
 miatoll userdebug yes yes
-spes user no no
 raphael userdebug yes no
 RM6785 userdebug yes yes
 venus userdebug yes yes
