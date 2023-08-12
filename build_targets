@@ -5,6 +5,7 @@ beyond0lte userdebug yes yes
 beyond1lte userdebug yes yes
 beyond2lte userdebug yes yes
 beyondx userdebug yes yes
+camellia userdebug yes yes
 chef userdebug yes yes
 courbet user no no
 d1 userdebug yes yes
