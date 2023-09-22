@@ -11,7 +11,6 @@ courbet user no no
 d1 userdebug yes yes
 d2s userdebug yes yes
 d2x userdebug yes yes
-gemini userdebug yes yes
 ginkgo userdebug yes yes
 gts4lv user no no
 gts4lvwifi user no no
@@ -23,7 +22,6 @@ lavender userdebug yes yes
 lemonade user yes yes
 lemonadep user yes yes
 lisa user yes yes
-mars userdebug yes yes
 miatoll userdebug yes yes
 ocean userdebug yes yes
 raphael userdebug yes no
@@ -32,6 +30,5 @@ RM6785 userdebug yes yes
 salami user yes yes
 sweet user yes yes
 vayu user yes yes
-venus userdebug yes yes
 violet userdebug yes yes
 zippo userdebug yes no
