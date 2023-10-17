@@ -12,8 +12,6 @@ d1 userdebug yes yes
 d2s userdebug yes yes
 d2x userdebug yes yes
 ginkgo userdebug yes yes
-gts4lv user no no
-gts4lvwifi user no no
 gta4xl userdebug yes yes
 gta4xlwifi userdebug yes yes
 guacamole userdebug yes yes
