@@ -1,0 +1,4 @@
+# crDroid build target list
+# <device> <build_type> <auto-upload> <upload-recovery>
+lemonadep userdebug yes yes
+
