@@ -8,6 +8,7 @@ beyondx userdebug yes yes
 camellia user yes yes
 chef userdebug yes yes
 courbet user no no
+channel userdebug yes yes
 d1 userdebug yes yes
 d2s userdebug yes yes
 d2x userdebug yes yes
