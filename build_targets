@@ -3,6 +3,7 @@
 beryllium userdebug yes yes
 chef userdebug yes yes
 ginkgo userdebug yes yes
+channel userdebug yes yes
 guacamole userdebug yes yes
 hotdogg userdebug yes yes
 lemonade userdebug yes yes
