@@ -13,11 +13,8 @@ d2s userdebug yes yes
 d2x userdebug yes yes
 f62 userdebug yes yes
 ginkgo userdebug yes yes
-gta4xl userdebug yes yes
-gta4xlwifi userdebug yes yes
 hotdog userdebug yes yes
 hotdogg userdebug yes yes
-lisa user yes yes
 ocean userdebug yes yes
 raphael userdebug yes no
 river userdebug yes yes
@@ -25,4 +22,3 @@ salami user yes yes
 Spacewar userdebug yes yes
 sweet user yes yes
 vayu user yes yes
-zippo userdebug yes no
