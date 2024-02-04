@@ -2,6 +2,7 @@
 # <device> <build_type> <auto-upload> <upload-recovery>
 beryllium userdebug yes yes
 chef userdebug yes yes
+courbet user yes yes
 ginkgo userdebug yes yes
 guacamole userdebug yes yes
 hotdogg userdebug yes yes
@@ -20,3 +21,4 @@ vayu user yes yes
 venus userdebug yes yes
 veux userdebug yes yes
 violet userdebug yes yes
+zippo user yes yes
