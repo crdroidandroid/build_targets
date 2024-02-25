@@ -1,19 +1,9 @@
 # crDroid build target list
 # <device> <build_type> <auto-upload> <upload-recovery>
-beyond0lte userdebug yes yes
-beyond1lte userdebug yes yes
-beyond2lte userdebug yes yes
-beyondx userdebug yes yes
 camellia user yes yes
 chef userdebug yes yes
-courbet user no no
 channel userdebug yes yes
-d1 userdebug yes yes
-d2s userdebug yes yes
-d2x userdebug yes yes
-f62 userdebug yes yes
 hotdog userdebug yes yes
 salami user yes yes
-Spacewar userdebug yes yes
 sweet user yes yes
 vayu user yes yes
