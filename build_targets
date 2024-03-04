@@ -3,6 +3,7 @@
 camellia user yes yes
 chef userdebug yes yes
 channel userdebug yes yes
+ginkgo userdebug yes yes
 salami user yes yes
 sweet user yes yes
 vayu user yes yes
