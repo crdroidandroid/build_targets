@@ -2,6 +2,7 @@
 # <device> <build_type> <auto-upload> <upload-recovery>
 a73xq user yes yes
 beryllium userdebug yes yes
+bladerunner userdebug yes no
 courbet user yes yes
 ginkgo userdebug yes yes
 guacamole userdebug yes yes
