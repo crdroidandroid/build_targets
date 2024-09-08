@@ -6,6 +6,7 @@ bladerunner userdebug yes no
 courbet user yes yes
 ginkgo userdebug yes yes
 guacamole userdebug yes yes
+guacamoleb userdebug yes yes
 ice userdebug yes yes
 lemonade userdebug yes yes
 lemonadep userdebug yes yes
