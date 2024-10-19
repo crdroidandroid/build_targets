@@ -2,12 +2,10 @@
 # <device> <build_type> <auto-upload> <upload-recovery>
 a73xq user yes yes
 beryllium userdebug yes yes
-bladerunner userdebug yes no
 cheeseburger user yes no
 clover userdebug yes no
 courbet user yes yes
 dumpling user yes no
-ginkgo userdebug yes yes
 guacamole userdebug yes yes
 kebab userdebug yes yes
 lemonade userdebug yes yes
@@ -20,7 +18,6 @@ miatoll userdebug yes yes
 PL2 userdebug yes yes
 sagit user yes yes
 salami user yes yes
-Spacewar userdebug yes yes
 stone userdebug yes yes
 surya user yes yes
 sweet user yes yes
