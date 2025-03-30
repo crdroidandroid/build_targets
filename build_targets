@@ -27,7 +27,7 @@ river userdebug yes [boot.img, dtbo.img, super_empty.img]
 salami userdebug yes [boot.img, dtbo.img, recovery.img, vbmeta.img, vendor_boot.img]
 stone userdebug yes [boot.img]
 surya userdebug yes [recovery.img]
-sweet userdebug yes
+sweet userdebug yes []
 thyme user yes [boot.img, dtbo.img, vbmeta.img, vendor_boot.img]
 tokay userdebug yes [boot.img, dtbo.img, init_boot.img, vendor_boot.img, vendor_kernel_boot.img]
-vayu userdebug yes
+vayu userdebug yes []
