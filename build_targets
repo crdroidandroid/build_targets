@@ -1,6 +1,6 @@
 # crDroid build target list
 # <device> <build_type> <auto-upload> <saveimages>
-#a73xq userdebug yes [recovery.img]
+a73xq userdebug yes [recovery.img]
 beryllium userdebug yes [recovery.img]
 caiman userdebug yes [boot.img, dtbo.img, init_boot.img, vendor_boot.img, vendor_kernel_boot.img]
 channel userdebug yes [boot.img, dtbo.img]
@@ -15,7 +15,7 @@ kiev userdebug yes [recovery.img]
 komodo userdebug yes [boot.img, dtbo.img, init_boot.img, vendor_boot.img, vendor_kernel_boot.img]
 lemonade userdebug yes [boot.img, dtbo.img, vbmeta.img, vendor_boot.img]
 lemonadep userdebug yes [boot.img, dtbo.img, vbmeta.img, vendor_boot.img]
-#m52xq userdebug yes [recovery.img]
+m52xq userdebug yes [recovery.img]
 #mars userdebug yes [boot.img, dtbo.img, vendor_boot.img]
 #mayfly userdebug yes [boot.img, dtbo.img, vendor_boot.img]
 #nio userdebug yes [boot.img, dtbo.img, vendor_boot.img]
