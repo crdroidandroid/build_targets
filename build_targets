@@ -10,6 +10,7 @@ comet userdebug yes [boot.img, dtbo.img, init_boot.img, vendor_boot.img, vendor_
 courbet user yes [recovery.img]
 dubai userdebug no [boot.img, dtbo.img, vendor_boot.img]
 #dumpling userdebug yes [recovery.img]
+garnet userdebug no [recovery.img]
 guacamole userdebug yes [boot.img]
 kiev userdebug yes [recovery.img]
 komodo userdebug yes [boot.img, dtbo.img, init_boot.img, vendor_boot.img, vendor_kernel_boot.img]
