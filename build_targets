@@ -1,5 +1,6 @@
 # crDroid build target list
 # <device> <build_type> <auto-upload> <saveimages>
+a73xq userdebug yes [recovery.img]
 beryllium userdebug yes [recovery.img]
 caiman userdebug yes [boot.img, dtbo.img, init_boot.img, vendor_boot.img, vendor_kernel_boot.img]
 channel userdebug yes [boot.img, dtbo.img]
