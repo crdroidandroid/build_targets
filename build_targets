@@ -21,6 +21,5 @@ salami userdebug yes [boot.img, dtbo.img, recovery.img, vbmeta.img, vendor_boot.
 stone userdebug yes [boot.img]
 surya userdebug yes [recovery.img]
 sweet userdebug yes [recovery.img]
-thyme user yes [boot.img, dtbo.img, vbmeta.img, vendor_boot.img]
 tokay userdebug yes [boot.img, dtbo.img, init_boot.img, vendor_boot.img, vendor_kernel_boot.img]
 vayu userdebug yes [recovery.img]
