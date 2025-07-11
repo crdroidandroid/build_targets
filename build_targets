@@ -18,6 +18,7 @@ nx_tab userdebug no [android.ini, boot.img, bootlogo_android.bmp, icon_android_h
 pstar userdebug yes [boot.img, dtbo.img, vendor_boot.img]
 #redwood userdebug yes [boot.img, dtbo.img, vendor_boot.img]
 RMX2020 user no [recovery.img, boot.img]
+r8s user yes [recovery.img]
 Spacewar userdebug yes [boot.img, vendor_boot.img]
 stone userdebug yes [boot.img]
 surya userdebug yes [recovery.img]
