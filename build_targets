@@ -3,3 +3,4 @@
 guacamole userdebug yes [boot.img]
 lemonade userdebug yes [boot.img, dtbo.img, vbmeta.img, vendor_boot.img]
 lemonadep userdebug yes [boot.img, dtbo.img, vbmeta.img, vendor_boot.img]
+sweet userdebug yes [recovery.img]
