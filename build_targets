@@ -9,7 +9,6 @@ comet userdebug yes [boot.img, dtbo.img, init_boot.img, vendor_boot.img, vendor_
 corvette userdebug no [boot.img, init_boot.img, vendor_boot.img, recovery.img]
 courbet user yes [recovery.img]
 crosshatch userdebug no [boot.img, dtbo.img]
-dubai userdebug no [boot.img, dtbo.img, vendor_boot.img]
 guacamole userdebug yes [boot.img]
 hotdog userdebug yes [dtbo.img, recovery.img, vbmeta.img]
 kebab userdebug yes [recovery.img]
