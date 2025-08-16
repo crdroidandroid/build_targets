@@ -1,0 +1,5 @@
+# crDroid build target list
+# <device> <build_type> <auto-upload> <saveimages>
+guacamole userdebug yes [boot.img]
+lemonade userdebug yes [boot.img, dtbo.img, vbmeta.img, vendor_boot.img]
+lemonadep userdebug yes [boot.img, dtbo.img, vbmeta.img, vendor_boot.img]
