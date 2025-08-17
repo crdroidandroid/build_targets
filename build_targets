@@ -2,6 +2,7 @@
 # <device> <build_type> <auto-upload> <saveimages>
 caiman userdebug yes [boot.img, dtbo.img, init_boot.img, vendor_boot.img, vendor_kernel_boot.img]
 comet userdebug yes [boot.img, dtbo.img, init_boot.img, vendor_boot.img, vendor_kernel_boot.img]
+courbet user yes [recovery.img]
 guacamole userdebug yes [boot.img]
 komodo userdebug yes [boot.img, dtbo.img, init_boot.img, vendor_boot.img, vendor_kernel_boot.img]
 lemonade userdebug yes [boot.img, dtbo.img, vbmeta.img, vendor_boot.img]
