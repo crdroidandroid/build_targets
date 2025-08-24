@@ -1,6 +1,7 @@
 # crDroid build target list
 # <device> <build_type> <auto-upload> <saveimages>
 a52sxq userdebug yes [boot.img, recovery.img]
+a71 userdebug yes [boot.img, dtbo.img]
 caiman userdebug yes [boot.img, dtbo.img, init_boot.img, vendor_boot.img, vendor_kernel_boot.img]
 comet userdebug yes [boot.img, dtbo.img, init_boot.img, vendor_boot.img, vendor_kernel_boot.img]
 courbet user yes [recovery.img]
