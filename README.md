@@ -18,7 +18,7 @@ To define a new build target, add an entry to `build_targets` using the format b
 
 ### Dependencies
 Each device to be built must have its **`crdroid.dependencies`** file properly configured.  
-> ⚠️ Cloning via `vendor.sh` call (`git clone`) is not allowed.
+> ⚠️ Cloning or managing source via `vendor.sh` call (`git clone`) is not allowed.
   
 ### Example format
 ```json
