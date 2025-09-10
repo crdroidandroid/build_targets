@@ -18,7 +18,7 @@ To define a new build target, add an entry to `build_targets` using the format b
 
 ### Dependencies
 Each device to be built must have its **`crdroid.dependencies`** file properly configured.  
-> ⚠️ Cloning via `vendor.sh` call (`git clone`) is not allowed.
+> ⚠️ Cloning or managing source via `vendor.sh` call (`git clone`) is not allowed.
   
 ### Example format
 ```json
@@ -46,7 +46,7 @@ Each device to be built must have its **`crdroid.dependencies`** file properly c
 
 1. Branch & remote defaults
     - Do not set `branch` or `remote` if using default values.
-    - Example: For *crDroid 16*, the branch defaults to `16.0` and the remote defaults to `github`.
+    - Example: For *crDroid 16*, the branch defaults to `15.0` and the remote defaults to `github`.
 2. Repository sources
     - Device trees, kernels and addons must be tracked from crDroid’s GitHub or GitLab.
     - Hardware or smaller dependencies may be tracked from LineageOS.
