@@ -3,6 +3,7 @@
 a52sxq userdebug yes [boot.img, recovery.img]
 a71 userdebug yes [boot.img, dtbo.img]
 caiman userdebug yes [boot.img, dtbo.img, init_boot.img, vendor_boot.img, vendor_kernel_boot.img]
+clover userdebug yes [recovery.img]
 comet userdebug yes [boot.img, dtbo.img, init_boot.img, vendor_boot.img, vendor_kernel_boot.img]
 corvette userdebug no [boot.img, init_boot.img, vendor_boot.img, recovery.img]
 courbet user yes [recovery.img]
