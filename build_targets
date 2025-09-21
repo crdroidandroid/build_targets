@@ -2,6 +2,7 @@
 # <device> <build_type> <auto-upload> <saveimages>
 a52sxq userdebug yes [boot.img, recovery.img]
 a71 userdebug yes [boot.img, dtbo.img]
+aston userdebug yes [boot.img, dtbo.img, recovery.img, vbmeta.img, vendor_boot.img]
 caiman userdebug yes [boot.img, dtbo.img, init_boot.img, vendor_boot.img, vendor_kernel_boot.img]
 clover userdebug yes [recovery.img]
 comet userdebug yes [boot.img, dtbo.img, init_boot.img, vendor_boot.img, vendor_kernel_boot.img]
