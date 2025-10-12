@@ -1,7 +1,6 @@
 # crDroid build target list
 # <device> <build_type> <auto-upload> <saveimages>
 a52sxq userdebug yes [boot.img, recovery.img]
-a71 userdebug yes [boot.img, dtbo.img]
 beryllium userdebug yes [recovery.img]
 blueline userdebug no [boot.img, dtbo.img]
 bonito userdebug no [boot.img]
