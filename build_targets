@@ -34,7 +34,7 @@ panther userdebug yes [boot.img, dtbo.img, init_boot.img, vendor_boot.img, vendo
 phoenix userdebug no [recovery.img]
 redwood userdebug yes [boot.img, dtbo.img, vendor_boot.img]
 RMX2020 user no [boot.img, recovery.img]
-RMX2061 user yes [boot.img, recovery.img]
+RMX2061 userdebug yes [boot.img, recovery.img]
 salami userdebug yes [boot.img, dtbo.img, init_boot.img, recovery.img, vbmeta.img, vendor_boot.img]
 Spacewar userdebug yes [boot.img, vendor_boot.img]
 stone userdebug yes [boot.img, dtbo.img, vendor_boot.img]
