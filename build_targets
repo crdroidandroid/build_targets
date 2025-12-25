@@ -14,7 +14,7 @@ cheetah userdebug yes [boot.img, dtbo.img, init_boot.img, vendor_boot.img, vendo
 clover userdebug yes [recovery.img]
 comet userdebug yes [boot.img, dtbo.img, init_boot.img, vendor_boot.img, vendor_kernel_boot.img]
 corvette userdebug yes [boot.img, dtbo.img, init_boot.img, recovery.img, vbmeta.img, vendor_boot.img]
-courbet user yes [recovery.img]
+courbet userdebug yes [recovery.img]
 diting user yes [recovery.img]
 dodge userdebug yes [boot.img, dtbo.img, init_boot.img, recovery.img, vbmeta.img, vendor_boot.img]
 erhai userdebug yes [boot.img, dtbo.img, init_boot.img, recovery.img, vbmeta.img, vendor_boot.img]
