@@ -40,5 +40,6 @@ tegu userdebug yes [boot.img, dtbo.img, init_boot.img, vendor_boot.img, vendor_k
 tokay userdebug yes [boot.img, dtbo.img, init_boot.img, vendor_boot.img, vendor_kernel_boot.img]
 vayu userdebug yes [recovery.img]
 waffle userdebug yes [boot.img, dtbo.img, init_boot.img, recovery.img, vbmeta.img, vendor_boot.img]
+x1s userdebug no [recovery.img]
 xigua userdebug yes [boot.img, dtbo.img, init_boot.img, recovery.img, vbmeta.img, vendor_boot.img]
 xueying userdebug yes [boot.img, dtbo.img, init_boot.img, recovery.img, vbmeta.img, vendor_boot.img]
