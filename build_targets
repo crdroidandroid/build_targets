@@ -1,10 +1,8 @@
 # crDroid build target list
 # <device> <build_type> <auto-upload> <saveimages>
-a52sxq userdebug yes [boot.img, recovery.img]
 beryllium userdebug yes [recovery.img]
 blueline userdebug no [boot.img, dtbo.img]
 bonito userdebug no [boot.img]
-crosshatch userdebug no [boot.img, dtbo.img]
 dipper userdebug yes [recovery.img]
 nx_tab userdebug no [android.ini, boot.img, bootlogo_android.bmp, icon_android_hue.bmp, recovery.img, install/nx-plat.dtimg, bl31.bin, bl33.bin, boot.scr]
 rova user no [recovery.img, boot.img]
