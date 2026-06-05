@@ -33,7 +33,7 @@ onyx userdebug yes [boot.img, init_boot.img, vendor_boot.img]
 panther userdebug yes [boot.img, dtbo.img, init_boot.img, vendor_boot.img, vendor_kernel_boot.img]
 peridot userdebug yes [boot.img, init_boot.img, vendor_boot.img]
 raven userdebug no [boot.img, dtbo.img, vendor_boot.img]
-rtwo userdebug no [boot.img, dtbo.img, init_boot.img, recovery.img, vendor_boot.img)
+rtwo userdebug no [boot.img, dtbo.img, init_boot.img, recovery.img, vendor_boot.img]
 salami userdebug yes [boot.img, dtbo.img, init_boot.img, recovery.img, vbmeta.img, vendor_boot.img]
 Spacewar userdebug no [boot.img, vendor_boot.img]
 surya userdebug yes [recovery.img]
