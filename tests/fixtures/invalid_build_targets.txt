@@ -1,0 +1,7 @@
+# invalid entries
+cheetah userdebug yes [boot.img, dtbo.img]
+cheetah userdebug no [boot.img]
+bad device userdebug yes [boot.img]
+raven userdebug maybe [boot.img]
+surya userdebug yes [boot.img,, dtbo.img]
+onyx user yes [boot.img, vendor_boot.img, RECOVERY.IMG, init_boot.img, vbmeta.img]

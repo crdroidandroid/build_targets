@@ -1,0 +1,4 @@
+# valid entries
+cheetah userdebug yes [boot.img, dtbo.img, init_boot.img, vendor_boot.img]
+miatoll user no [recovery.img]
+RMX2020 user no [boot.img, recovery.img]

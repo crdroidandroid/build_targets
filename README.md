@@ -53,3 +53,19 @@ Each device to be built must have its **`crdroid.dependencies`** file properly c
 3. Device acceptance
     - A device will only be officially accepted after two or three quality builds.
     - This requirement helps prevent "bot-like" maintainers.
+## Validation
+Use the validator before submitting changes:
+- Human-readable output:
+  - `python3 tools/validate_build_targets.py build_targets`
+- Machine-readable JSON output:
+  - `python3 tools/validate_build_targets.py --json build_targets`
+
+Validation enforces schema-level checks from this document:
+- line format: `<device> <build_type> <auto-upload> <saveimages>`
+- `build_type` must be one of `user`, `userdebug`, `eng`
+- `auto-upload` must be `yes` or `no`
+- `saveimages` must be bracketed and comma-separated
+- duplicate device entries are rejected
+
+To run automated tests for the validator:
+- `python3 -m pytest tests`
