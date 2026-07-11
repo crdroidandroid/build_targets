@@ -22,6 +22,7 @@ giuliac userdebug yes [boot.img, dtbo.img, init_boot.img, recovery.img, vbmeta.i
 guacamole userdebug yes [boot.img]
 kebab userdebug yes [recovery.img]
 komodo userdebug yes [boot.img, dtbo.img, init_boot.img, vendor_boot.img, vendor_kernel_boot.img]
+larry userdebug yes [boot.img, dtbo.img, super_empty.img vbmeta.img, vendor_boot.img]
 lemonade userdebug yes [boot.img, dtbo.img, vbmeta.img, vendor_boot.img]
 lemonadep userdebug yes [boot.img, dtbo.img, vbmeta.img, vendor_boot.img]
 lexus userdebug yes [boot.img, dtbo.img, init_boot.img, recovery.img, vbmeta.img, vendor_boot.img]
@@ -45,4 +46,3 @@ waffle userdebug yes [boot.img, dtbo.img, init_boot.img, recovery.img, vbmeta.im
 x1s userdebug no [recovery.img]
 xigua userdebug yes [boot.img, dtbo.img, init_boot.img, recovery.img, vbmeta.img, vendor_boot.img]
 xueying userdebug yes [boot.img, dtbo.img, init_boot.img, recovery.img, vbmeta.img, vendor_boot.img]
-larry userdebug yes [boot.img, dtbo.img, super_empty.img vbmeta.img, vendor_boot.img]
