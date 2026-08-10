@@ -35,6 +35,7 @@ rtwo userdebug no [boot.img, dtbo.img, init_boot.img, recovery.img, vendor_boot.
 RMX2020 user no [boot.img, recovery.img]
 salami userdebug yes [boot.img, dtbo.img, init_boot.img, recovery.img, vbmeta.img, vendor_boot.img]
 Spacewar userdebug no [boot.img, vendor_boot.img]
+spes userdebug yes [boot.img, dtbo.img, vendor_boot.img]
 surya userdebug yes [recovery.img]
 sweet userdebug yes [recovery.img]
 tegu userdebug yes [boot.img, dtbo.img, init_boot.img, vendor_boot.img, vendor_kernel_boot.img]
