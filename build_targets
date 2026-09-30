@@ -16,6 +16,7 @@ corvette userdebug yes [boot.img, dtbo.img, init_boot.img, recovery.img, vbmeta.
 dodge userdebug yes [boot.img, dtbo.img, init_boot.img, recovery.img, vbmeta.img, vendor_boot.img]
 erhai userdebug yes [boot.img, dtbo.img, init_boot.img, recovery.img, vbmeta.img, vendor_boot.img]
 everpal userdebug no [boot.img]
+fire userdebug no [vendor_boot.img, md1img.img, boot.img, dtbo.img]
 gemstone userdebug yes [boot.img, dtbo.img, vendor_boot.img]
 giulia userdebug yes [boot.img, dtbo.img, init_boot.img, recovery.img, vbmeta.img, vendor_boot.img]
 giuliac userdebug yes [boot.img, dtbo.img, init_boot.img, recovery.img, vbmeta.img, vendor_boot.img]
