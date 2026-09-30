@@ -14,3 +14,4 @@ stallion userdebug no [boot.img, dtbo.img, init_boot.img, vendor_boot.img, vendo
 sweet userdebug no [recovery.img]
 tegu userdebug no [boot.img, dtbo.img, init_boot.img, vendor_boot.img, vendor_kernel_boot.img]
 tokay userdebug no [boot.img, dtbo.img, init_boot.img, vendor_boot.img, vendor_kernel_boot.img]
+sweet2 userdebug yes [recovery.img]
