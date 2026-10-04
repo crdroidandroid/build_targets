@@ -14,3 +14,4 @@ stallion userdebug yes [boot.img, dtbo.img, init_boot.img, vendor_boot.img, vend
 sweet userdebug yes [recovery.img]
 tegu userdebug yes [boot.img, dtbo.img, init_boot.img, vendor_boot.img, vendor_kernel_boot.img]
 tokay userdebug yes [boot.img, dtbo.img, init_boot.img, vendor_boot.img, vendor_kernel_boot.img]
+vayu userdebug yes [recovery.img]
