@@ -1,5 +1,5 @@
-# <device> <build_type> <auto-upload> <saveimages>
 # crDroid build target list
+# <device> <build_type> <auto-upload> <saveimages>
 a52q userdebug yes [recovery.img]
 a72q userdebug yes [recovery.img]
 aston userdebug yes [boot.img, dtbo.img, init_boot.img, recovery.img, vbmeta.img, vendor_boot.img]
