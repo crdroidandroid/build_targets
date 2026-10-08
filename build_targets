@@ -29,7 +29,7 @@ lynx userdebug yes [boot.img, dtbo.img, init_boot.img, vendor_boot.img, vendor_k
 nabu user yes [boot.img, dtbo.img, vbmeta.img, vendor_boot.img]
 onyx userdebug yes [boot.img, init_boot.img, vendor_boot.img, recovery.img, dtbo.img]
 panther userdebug yes [boot.img, dtbo.img, init_boot.img, vendor_boot.img, vendor_kernel_boot.img]
-peridot userdebug yes [boot.img, init_boot.img, vendor_boot.img, recovery.img, dtbo.img]
+peridot userdebug yes [boot.img, init_boot.img, vendor_boot.img, recovery.img]
 redfin userdebug yes [boot.img, dtbo.img, vendor_boot.img]
 salami userdebug yes [boot.img, dtbo.img, init_boot.img, recovery.img, vbmeta.img, vendor_boot.img]
 stallion userdebug yes [boot.img, dtbo.img, init_boot.img, vendor_boot.img, vendor_kernel_boot.img]
