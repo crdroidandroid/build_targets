@@ -22,6 +22,7 @@ giulia userdebug yes [boot.img, dtbo.img, init_boot.img, recovery.img, vbmeta.im
 giuliac userdebug yes [boot.img, dtbo.img, init_boot.img, recovery.img, vbmeta.img, vendor_boot.img]
 guacamole userdebug yes [boot.img]
 hotdog userdebug yes [dtbo.img, recovery.img, vbmeta.img]
+haydn userdebug yes [boot.img, dtbo.img, vendor_boot.img]
 kebab userdebug yes [recovery.img]
 komodo userdebug yes [boot.img, dtbo.img, init_boot.img, vendor_boot.img, vendor_kernel_boot.img]
 lemonade userdebug yes [boot.img, dtbo.img, vbmeta.img, vendor_boot.img]
