@@ -22,6 +22,7 @@ giulia user yes [boot.img, dtbo.img, init_boot.img, recovery.img, vbmeta.img, ve
 giuliac user yes [boot.img, dtbo.img, init_boot.img, recovery.img, vbmeta.img, vendor_boot.img]
 guacamole userdebug yes [boot.img]
 hummer user yes [boot.img, dtbo.img, init_boot.img, recovery.img, vbmeta.img, vendor_boot.img]
+haydn userdebug yes [boot.img, dtbo.img, vendor_boot.img]
 iceland user yes [boot.img, dtbo.img, init_boot.img, recovery.img, vbmeta.img, vendor_boot.img]
 infiniti user yes [boot.img, dtbo.img, init_boot.img, recovery.img, vbmeta.img, vendor_boot.img]
 kebab userdebug yes [boot.img, recovery.img]
