@@ -36,6 +36,7 @@ panther userdebug yes [boot.img, dtbo.img, init_boot.img, vendor_boot.img, vendo
 peridot userdebug yes [boot.img, init_boot.img, vendor_boot.img, recovery.img]
 redfin userdebug yes [boot.img, dtbo.img, vendor_boot.img]
 salami user yes [boot.img, dtbo.img, init_boot.img, recovery.img, vbmeta.img, vendor_boot.img]
+Spacewar userdebug yes [boot.img, vendor_boot.img]
 stallion user yes [boot.img, dtbo.img, init_boot.img, vendor_boot.img, vendor_kernel_boot.img]
 sweet user yes [recovery.img]
 sweet2 userdebug yes [recovery.img]
