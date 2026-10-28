@@ -46,7 +46,7 @@ Each device to be built must have its **`crdroid.dependencies`** file properly c
 
 1. Branch & remote defaults
     - Do not set `branch` or `remote` if using default values.
-    - Example: For *crDroid 17*, the branch defaults to `17.0` and the remote defaults to `github`.
+    - Example: For *crDroid 13*, the branch defaults to `17.0` and the remote defaults to `github`.
 2. Repository sources
     - Device trees, kernels and addons must be tracked from crDroid’s GitHub or GitLab.
     - Hardware or smaller dependencies may be tracked from LineageOS.
