@@ -26,6 +26,7 @@ iceland user yes [boot.img, dtbo.img, init_boot.img, recovery.img, vbmeta.img, v
 infiniti user yes [boot.img, dtbo.img, init_boot.img, recovery.img, vbmeta.img, vendor_boot.img]
 kebab userdebug yes [boot.img, recovery.img]
 komodo user yes [boot.img, dtbo.img, init_boot.img, vendor_boot.img, vendor_kernel_boot.img]
+ktm user yes [boot.img, dtbo.img, init_boot.img, recovery.img, vbmeta.img, vendor_boot.img]
 lemonade userdebug yes [boot.img, dtbo.img, vbmeta.img, vendor_boot.img]
 lemonadep userdebug yes [boot.img, dtbo.img, vbmeta.img, vendor_boot.img]
 lexus user yes [boot.img, dtbo.img, init_boot.img, recovery.img, vbmeta.img, vendor_boot.img]
