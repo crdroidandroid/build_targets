@@ -16,6 +16,7 @@ comet user yes [boot.img, dtbo.img, init_boot.img, vendor_boot.img, vendor_kerne
 corvette user yes [boot.img, dtbo.img, init_boot.img, recovery.img, vbmeta.img, vendor_boot.img]
 dodge user yes [boot.img, dtbo.img, init_boot.img, recovery.img, vbmeta.img, vendor_boot.img]
 erhai user yes [boot.img, dtbo.img, init_boot.img, recovery.img, vbmeta.img, vendor_boot.img]
+everpal user yes [boot.img]
 fairlady user yes [boot.img, dtbo.img, init_boot.img, recovery.img, vbmeta.img, vendor_boot.img]
 gemstone userdebug yes [boot.img, dtbo.img, vendor_boot.img]
 giulia user yes [boot.img, dtbo.img, init_boot.img, recovery.img, vbmeta.img, vendor_boot.img]
